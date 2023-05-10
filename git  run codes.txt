@@ -1,0 +1,13 @@
+git config --global user.name "naveenthu5"
+
+git config --global user.email "naveen56644@gmail.com"
+
+git clone "URL PASTE"
+
+git add --a
+
+git commit -m "file name "
+
+git push -u "file name"
+ 
+git
