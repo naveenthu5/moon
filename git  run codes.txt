@@ -10,4 +10,4 @@ git commit -m "file name "
 
 git push -u "file name"
  
-git
+git pull
